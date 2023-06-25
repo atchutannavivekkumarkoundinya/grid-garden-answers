@@ -1,0 +1,58 @@
+question1
+grid-column-start: 3;
+question2
+grid-column-start: 5
+question3
+grid-column-end: 4;
+question4
+grid-column-end: 2;
+question5
+grid-column-end:5;
+question6
+grid-column-start: 4;
+question7
+grid-column-end:4;
+question8
+grid-column-end:6;
+question9
+grid-column-start:3;
+question10
+grid-column: 4/6;
+question11
+grid-column: 2/5;
+question12
+grid-row-start: 3;
+question13
+grid-row:3/6;
+question14
+grid-row:5;
+grid-column: 2
+question15
+grid-column: 2/6;
+grid-row: 1/6 
+question16
+grid-area: 1/2/4/6;
+question17
+grid-area: 2/3/5/6;
+question18
+order:1;
+question19
+order:-1;
+question20
+grid-template-columns: 50% 50%;
+question21
+grid-template-columns: repeat(8,12.5%);
+question22
+grid-template-columns: 100px 3em 40%;
+question23
+grid-template-columns:1fr 5fr;
+question24
+grid-template-columns: 50px repeat(3, 1fr) 50px
+question25
+grid-template-columns: 75px 0.6fr 0.4fr;
+question26
+grid-template-rows: 50px 0 0 0 1fr;
+question27
+grid-template: 60%/200px
+question28
+grid-template: 1fr 50px /1fr 4fr;
